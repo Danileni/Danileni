@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   - :office: [LinkedIn](https://www.linkedin.com/in/eleni-polikrati-ab0429233)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danileni&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danileni&langs_count=5&theme=great-gatsby" />
 </a><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danileni&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danileni&count_private=true&theme=great-gatsby&showicons=true&hide_rank=false" />
 </a>
